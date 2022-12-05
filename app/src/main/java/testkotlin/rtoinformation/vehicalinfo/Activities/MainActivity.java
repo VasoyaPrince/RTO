@@ -350,7 +350,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 case 104:
                     if (iArr[1] == 0) {
                         startActivity(new Intent(this, MyCreationActivity.class));
-//                        if (Splash_Activity.adModel.getIsAdmobEnable() == 1 && isAdmobLoaded()) {
+//                        if (Splash_Activity.adModel.getIsAdmobEnable() == 1 && isAdmobLoaded()) { LinearLayout adMobView = findViewById(R.id.adMobView);
+//        AppManage.getInstance(ExamPreparationOptionsActivity.this).showBanner(adMobView, AppManage.ADMOB_B[0], AppManage.FACEBOOK_B[0]);.-
 //                            showAdmobInterstitial();
 //                        }
                         return;
