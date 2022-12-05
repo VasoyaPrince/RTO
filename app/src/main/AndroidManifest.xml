@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
     <application
-        android:name="testkotlin.rtoinformation.vehicalinfo.Splash.MyApplication"
+        android:name="kotlin.rtoinformation.vehicalinfo.Splash.MyApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher_foreground"
@@ -43,7 +43,7 @@
 
         <activity
             android:exported="true"
-            android:name="testkotlin.rtoinformation.vehicalinfo.Splash.Splash_Activity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Splash.Splash_Activity"
             android:configChanges="orientation|screenSize"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -62,55 +62,55 @@
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.MainActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.MainActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.MyHistoryDetails"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.MyHistoryDetails"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.FuelActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.FuelActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.ExamPreparationOptionsActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.ExamPreparationOptionsActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOinformationActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOinformationActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.CityListActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.CityListActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.DetailActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.DetailActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.creation.MyCreationActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.creation.MyCreationActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOSymbolsActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOSymbolsActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOSymbolsDetailActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOSymbolsDetailActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOExamPreparationActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOExamPreparationActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOExamActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOExamActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name="testkotlin.rtoinformation.vehicalinfo.Activities.RTOResultActivity"
+            android:name="kotlin.rtoinformation.vehicalinfo.Activities.RTOResultActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name=".Activities.SearchVehicleActivity"

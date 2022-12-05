@@ -115,7 +115,7 @@
                     android:textSize="@dimen/_13ssp" />
             </LinearLayout>
 
-            <testkotlin.rtoinformation.vehicalinfo.utils.ProgressWheel
+            <kotlin.rtoinformation.vehicalinfo.utils.ProgressWheel
                 android:id="@+id/countdown_timer"
                 android:layout_width="@dimen/_50sdp"
                 android:layout_height="@dimen/_50sdp"

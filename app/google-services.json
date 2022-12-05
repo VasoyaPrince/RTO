@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:43221944735:android:796b36332a98db02ba95aa",
         "android_client_info": {
-          "package_name": "testkotlin.rtoinformation.vehicalinfo"
+          "package_name": "kotlin.rtoinformation.vehicalinfo"
         }
       },
       "oauth_client": [
